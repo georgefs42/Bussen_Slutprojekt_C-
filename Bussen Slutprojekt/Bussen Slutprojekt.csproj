@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Bussen_Slutprojekt</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\georg\OneDrive\Desktop\Programmering 1 C#\00 Slutprojekt Bussen\Bussen.cs" Link="Bussen.cs" />
+  </ItemGroup>
+
+</Project>
